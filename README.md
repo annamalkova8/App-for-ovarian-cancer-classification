@@ -14,3 +14,6 @@ The model could classify the test image (HGSC) as CC with 47% of accuracy and as
 
 ## Docker container with a model and application
 670f665a797145f26a58b0b8b534aa7010fe936aac1278ef60f4fe50bbbf3478
+
+## Link to the model (pickle file)
+https://drive.google.com/file/d/1_pWrPE0LOaX55Ljx5doLqH09hsnVJ-Kr/view?usp=sharing
