@@ -13,4 +13,4 @@ It might be associated with a small number of samples, high variability of pictu
 The model could classify the test image (HGSC) as CC with 47% of accuracy and as HGSC with 33%.
 
 ## Docker container with a model and application
-1b9ea8b00181f0b1da6732056c2230d99383ebd69b17df935d0b2432d3392252
+670f665a797145f26a58b0b8b534aa7010fe936aac1278ef60f4fe50bbbf3478
