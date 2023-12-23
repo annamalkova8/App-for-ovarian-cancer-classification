@@ -10,7 +10,7 @@ to improve accuracy in identifying ovarian cancer subtypes with histological ima
 ## The results
 The best results were obtained with ResNet50 module, though the accuracy is quite low.
 It might be associated with a small number of samples, high variability of pictures, the lack of possibility to perform analysis using histolab (to extract details of slices).
-The model could classify the test image (HGSC) as CC with 47% of accuracy and as HGSC with 33%.
+The model could classify the test image (HGSC) as CC with 51% of accuracy and as HGSC with 47%.
 
 ## Docker container with a model and application
 670f665a797145f26a58b0b8b534aa7010fe936aac1278ef60f4fe50bbbf3478
